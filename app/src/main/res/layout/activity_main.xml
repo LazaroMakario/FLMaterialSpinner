@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:mflspinner="http://schemas.android.com/apk/res-auto"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:layout_margin="10dp"
+  android:orientation="vertical">
+
+  <com.lazaro.makario.flmaterialspinner.FLMaterialSpinner
+    android:id="@+id/flmspinner_test"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    mflspinner:hintSpinner="SELECT AN OPTION"
+    mflspinner:titleSpinner="Country">
+
+  </com.lazaro.makario.flmaterialspinner.FLMaterialSpinner>
+
+  <Button
+    android:id="@+id/button_validate"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/flmaterialspinnerexample_button_validate" />
+
+  <Button
+    android:id="@+id/button_selected_by_key"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/flmaterialspinnerexample_button_selectedbykey" />
+
+  <Button
+    android:id="@+id/button_selected_by_value"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/flmaterialspinnerexample_button_selectedbyvalue" />
+
+  <Button
+    android:id="@+id/button_get_key_selected"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/flmaterialspinnerexample_button_getkey" />
+
+  <Button
+    android:id="@+id/button_get_value_selected"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/flmaterialspinnerexample_button_getvalue" />
+
+  <Button
+    android:id="@+id/button_get_item_position_selected"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/flmaterialspinnerexample_button_gepposition" />
+
+  <Button
+    android:id="@+id/button_selected_position"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/flmaterialspinnerexample_button_setposition" />
+
+</LinearLayout>

@@ -1,0 +1,15 @@
+<resources>
+
+  <!--Error label text style-->
+  <style name="FLMaterialSpinnerErrorStyle" parent="TextAppearance.AppCompat.Small">
+    <item name="android:textColor">@color/red</item>
+  </style>
+
+  <style name="FLMaterialSpinnerStyle">
+    <item name="android:textColorHint">@color/grey</item>
+    <item name="colorAccent">@color/pink</item>
+    <item name="colorControlNormal">@color/grey</item>
+    <item name="colorControlActivated">@color/pink</item>
+  </style>
+
+</resources>

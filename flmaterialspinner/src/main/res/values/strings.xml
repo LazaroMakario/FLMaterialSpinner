@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">FLMaterialSpinner</string>
+  <item name="visible" type="id"/>
+  <item name="masked" type="id"/>
+  <string name="widget_spinner_hint">SELECCIONE UNA OPCIÓN</string>
+  <string name="widget_spinner_title"></string>
+</resources>

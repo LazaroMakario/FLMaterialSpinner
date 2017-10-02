@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FLMaterialSpinnerExample</string>
+    <string name="flmaterialspinnerexample_button_validate">VALIDATE SPINNER</string>
+    <string name="flmaterialspinnerexample_button_selectedbykey">SELECTED BY KEY</string>
+    <string name="flmaterialspinnerexample_button_selectedbyvalue">SELECTED BY VALUE</string>
+    <string name="flmaterialspinnerexample_button_getkey">GET KEY SELECTED</string>
+    <string name="flmaterialspinnerexample_button_getvalue">GET VALUE SELECTED</string>
+    <string name="flmaterialspinnerexample_button_gepposition">GET ITEM POSITION SELECTED</string>
+    <string name="flmaterialspinnerexample_button_setposition">SELECTED ITEM POSITION SELECTED</string>
+</resources>

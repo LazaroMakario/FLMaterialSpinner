@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <declare-styleable name="FLMaterialSpinner">
+    <attr name="hintSpinner" format="string" />
+    <attr name="titleSpinner" format="string" />
+  </declare-styleable>
+
+</resources>
