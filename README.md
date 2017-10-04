@@ -15,7 +15,7 @@ Usage
 
 Add the spinner to your layout XML:
 
-```
+```xml
 <com.lazaro.makario.flmaterialspinner.FLMaterialSpinner
     android:id="@+id/flmspinner_test"
     android:layout_width="fill_parent"
@@ -28,7 +28,7 @@ Add the spinner to your layout XML:
 
 Add items to the spinner and listen for clicks:
 
-```
+```java
 FLMaterialSpinner flMaterialSpinner = (FLMaterialSpinner) findViewById(R.id.flmspinner_test);
 
 Map<String, String> mapFLMaterialSpinner = new LinkedHashMap<>();
