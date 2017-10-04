@@ -53,8 +53,22 @@ Attributes to customize the view:
 
 |NAME|TYPE|HTML|
 |-------------|-----------|----------------|
-|`hintSpinner`)|`string`|`set title to spinner`|
-|`titleSpinner`)|`string`|`set default text for first item`|
+|`hintSpinner`|`string`|set title to spinner.|
+|`titleSpinner`|`string`|set default text for first item.|
+
+Methods to work with the view:
+
+|Method|Description|
+|-------------|-----------|----------------|
+|`setSelectedItemKey("KEY_PARAMETER")`|select the item by Map key parameter.|
+|`setSelectedItemValue("VALUE_PARAMETER")`|select the item by Map key parameter.|
+|`setSelectedItemPosition()`|select the item by position 
+|`getSelectedItemKey()`|return selected key.|
+|`getSelectedItemKey()`|return selected key.|
+|`getSelectedItemValue()`|return selected value.|
+|`getSelectedItemPosition()`|return selected position.|
+|`setSpinnerTitle()`|set title for spinner.|
+|`clearAdapter()`|clear spinner items.|
 
 
 Download
