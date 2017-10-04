@@ -84,7 +84,7 @@ Download
 
 Download the latest AAR or grab via Gradle:
 
-```
+```groovy
  compile 'com.lazaro.makario:FLMaterialSpinner:1.1.0'
 ```
 
