@@ -49,6 +49,13 @@ Map<String, String> mapFLMaterialSpinner = new LinkedHashMap<>();
         });
 ```
 
+If you need to set an error message:
+-------------
+![](https://github.com/LazaroMakarioFelipe/FLMaterialSpinner/blob/master/screenshot/device-2017-10-02-171556.png?raw=true)
+
+you can validate selection with method `isValidSelected()` and set error with method `setError("error_message")`.
+
+
 Attributes to customize the view:
 
 |NAME|TYPE|HTML|
