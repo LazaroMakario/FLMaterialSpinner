@@ -51,6 +51,12 @@ Map<String, String> mapFLMaterialSpinner = new LinkedHashMap<>();
 
 
 > Attributes to customize the view:
+|NAME|TYPE|HTML|
+|-------------|-----------|----------------|
+|`hintSpinner`)|`string`|`set title to spinner`|
+|`titleSpinner`)|`string`|`set default text for first item`|
+
+
 > |  NAME  | TYPE| HTML |
  | --------- | ------- | -------- |
 |hintSpinner| `string` |set title to spinner |
