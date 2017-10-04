@@ -87,6 +87,15 @@ Download the latest AAR or grab via Gradle:
 ```groovy
  compile 'com.lazaro.makario:FLMaterialSpinner:1.1.0'
 ```
+or Maven:
+```xml
+<dependency> 
+    <groupId>com.lazaro.makario</groupId>
+    <artifactId>FLMaterialSpinner</artifactId>
+    <version>1.1.0</version>
+    <type>pom</type>
+</dependency>
+```
 
 License
 --------
