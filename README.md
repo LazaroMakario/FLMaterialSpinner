@@ -59,10 +59,10 @@ Attributes to customize the view:
 Methods to work with the view:
 
 |Method|Description|
-|-------------|-----------|----------------|
+|------|-------------|
 |`setSelectedItemKey("KEY_PARAMETER")`|select the item by Map key parameter.|
 |`setSelectedItemValue("VALUE_PARAMETER")`|select the item by Map key parameter.|
-|`setSelectedItemPosition()`|select the item by position 
+|`setSelectedItemPosition()`|select the item by position|
 |`getSelectedItemKey()`|return selected key.|
 |`getSelectedItemKey()`|return selected key.|
 |`getSelectedItemValue()`|return selected value.|
